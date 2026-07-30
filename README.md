@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shaik Abdul Gaffar</h1>
 <h3 align="center">A 19-year-old Computer Science student evolving into an AI-Integrated Data Scientist.</h3>
 
-<!-- GAFFAR'S AI DATA LAB ANIMATION -->
+<!-- FIXED ANIMATION: Hosted directly on GitHub so it cannot be blocked -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggZd3pbYWSG4rq/giphy.gif" alt="Cyberpunk AI Data Lab" width="600" style="border-radius: 15px;" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Cool-Coding-Gif.gif" alt="Hacker Coding Animation" width="600" />
 </p>
 
 <!-- Sleek Contact Badges -->
@@ -21,13 +21,6 @@
 ### 🧠 The Journey
 - 🔭 **Current Focus:** Advanced Data Structures, C-Algorithm Optimization, and foundational AI models.
 - 🚀 **Vision:** To become a fully integrated Data Scientist who crafts intelligent systems from raw data logic.
-
----
-
-### 🧠 About Me
-- 🔭 I’m currently focused on **advanced data structures, algorithm design, and foundational AI models.**
-- 💻 My toolkit bridges the gap between low-level logic (C, Java) and high-level data analysis (Python), all while keeping things visually sharp with HTML.
-- 🚀 **Vision:** To become a fully loaded, AI-integrated Data Scientist who builds intelligent systems from the ground up.
 
 ---
 
