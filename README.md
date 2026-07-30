@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shaik Abdul Gaffar</h1>
 <h3 align="center">A 19-year-old Computer Science student evolving into an AI-Integrated Data Scientist.</h3>
 
-<!-- Dynamic Typing Animation -->
+<!-- GAFFAR'S AI DATA LAB ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Future+Data+Scientist;Mastering+Data+Structures+in+C;Building+Algorithms+with+Python+%26+Java;Integrating+AI+into+the+Future;Creative+Problem+Solver..." alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggZd3pbYWSG4rq/giphy.gif" alt="Cyberpunk AI Data Lab" width="600" style="border-radius: 15px;" />
 </p>
 
 <!-- Sleek Contact Badges -->
@@ -11,10 +11,16 @@
   <a href="https://www.linkedin.com/in/shaik-abdul-gaffar-14a4113b4">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:shaikabdulgaffar.8055@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shaikabdulgaffar.8055@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
+### 🧠 The Journey
+- 🔭 **Current Focus:** Advanced Data Structures, C-Algorithm Optimization, and foundational AI models.
+- 🚀 **Vision:** To become a fully integrated Data Scientist who crafts intelligent systems from raw data logic.
 
 ---
 
